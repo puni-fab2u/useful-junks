@@ -1,2 +1,2 @@
 # useful-junks
-collections of usefull codes
+collections of useful codes
